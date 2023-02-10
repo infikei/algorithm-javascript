@@ -1,7 +1,8 @@
 *.DS_Store
 .vscode
+
 index.js
 input.txt
 test*.*
 memo*.*
-boj*ing.*
+*ignore.*
